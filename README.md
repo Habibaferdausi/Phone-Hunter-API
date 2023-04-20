@@ -8,11 +8,11 @@ Using the latest mobile API, Phone Hunter is able to provide up-to-date informat
 - Html
 - Bootstrap
 - JavaScript
-- Phone API
+- API
 
 ## 🔗 Link
 
-[Phone Hunter]](https://habibaferdausi.github.io/Phone-Hunter-API/)
+[Phone Hunter](https://habibaferdausi.github.io/Phone-Hunter-API)
 
 
 
